@@ -1,4 +1,5 @@
 # python=3.11
+# tensorflow==2.15 (train, inferece 버전 맞춰야함)
 streamlit
 streamlit_drawable_canvas
 numpy==1.26.4
